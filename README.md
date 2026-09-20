@@ -23,7 +23,7 @@ Sistema de clasificación automática de consultas de una agencia de viajes, con
 │                                         y resiliencia, testing, y anexos con
 │                                         evidencia completa + JSON del flujo
 ├── flujo/
-│   └── Entrega_Final_-_Clasificacion_Leads_VIP.json
+│   └── Entrega_Final_Clasificacion_Leads_VIP.json
 │                                       → export del workflow de n8n
 ├── evidencia/
 │   └── capturas de pantalla del proceso de armado y de las 5 corridas de prueba
@@ -37,7 +37,7 @@ Sistema de clasificación automática de consultas de una agencia de viajes, con
 |---|---|
 | Base de Airtable (modo lectura) | https://airtable.com/invite/l?inviteId=invIVvnj2fqbx8HNa&inviteToken=0eefddfd0bf22e1eb2c24df9b7fe8de0b693dadc08b47e753afdf20b3244aa82 |
 | Dashboard de Control (Shared View agrupada por Estado) | https://airtable.com/appgE0chAL2PJ8tNd/shrih8NDLsoOiKt15 |
-| Video demo | `[PEGAR AQUÍ el link de YouTube/Drive, o indicar que está en /video]` |
+| Video demo | `./video/video_demo.mp4` (dentro del repo) — o pegar aquí el link de YouTube/Drive si se prefiere no versionarlo |
 
 
 ## Caso de negocio
